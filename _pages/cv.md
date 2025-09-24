@@ -14,7 +14,7 @@ Education
 * **Singapore University of Technology and Design (SUTD), Singapore**  
   * Ph.D. Candidate in Engineering Systems and Design, GPA: 4.67/5.0  
   * *Expected Jan 2028*  
-  * Advisors: [Prof. Xiaotang Yang](https://xiaotangyang.com/), Prof. Karthyek Murthy(https://sites.google.com/site/karthyekswebpage/)  
+  * Advisors: [Prof. Xiaotang Yang](https://xiaotangyang.com/), [Prof. Karthyek Murthy](https://sites.google.com/site/karthyekswebpage/)  
   * Exchange Ph.D. Student at **[Singapore Management University](https://business.smu.edu.sg/phd-business-operations-management/programme-structure-curriculum)**, GPA: 3.85/4.0 (Jan 2025 – May 2025)  
   * Coursework: Stochastic Models, Linear Optimization, Convex/Robust Optimization, Machine Learning, Online Learning, Learning in Games
 
