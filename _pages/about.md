@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a second year PhD candidate in **Engineering Systems and Design Pillar** at the Singapore University of Technology and Design (SUTD) supervised by Prof. Xiaotang Yang(https://xiaotangyang.com/) and Prof. Karthyek Murthy(https://sites.google.com/site/karthyekswebpage/). My research focuses on applied probability including two variant, One is  prescriptive analytics under high-dimensional statistics, with applications in inventory problems, portofolio problems. Another is large queueing networks in service science. 
+I am a second year PhD candidate in **Engineering Systems and Design Pillar** at the Singapore University of Technology and Design (SUTD) supervised by Prof. Xiaotang Yang(/https://xiaotangyang.com//) and Prof. Karthyek Murthy(https://sites.google.com/site/karthyekswebpage/). My research focuses on applied probability including two variant, One is  prescriptive analytics under high-dimensional statistics, with applications in inventory problems, portofolio problems. Another is large queueing networks in service science. 
 
 I am particularly interested in:
 - High-dimensional prescriptive analytics 
